@@ -126,5 +126,7 @@ The system performs real-time inference from webcam input and provides on-screen
 ## 👨‍🎓 Developed By
 
 **Nirmal S Nair**  
+**Joel Abraham Bijoy**  
+**Varun Krishna M**  
 Nitte Institute of Professional Education  
 Nitte (Deemed to be University)
